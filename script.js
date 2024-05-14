@@ -90,7 +90,7 @@ function drawText() {
   if (frameNumber < 300) {
     context.fillStyle = `rgba(255, 255, 255, ${opacity})`;
     context.fillText(
-      "everyday day I cannot believe how lucky I am",
+      "everyday day I cannot believe how lucky I am, to be able to talk to you",
       canvas.width / 2,
       canvas.height / 2
     );
@@ -160,7 +160,7 @@ function drawText() {
   if (frameNumber > 1200 && frameNumber < 1500) {
     context.fillStyle = `rgba(255, 255, 255, ${opacity})`;
     context.fillText(
-      "to be alive, and to get to spend this life with you",
+      "to be alive, and to get to spend this moment with you",
       canvas.width / 2,
       canvas.height / 2
     );
@@ -169,7 +169,7 @@ function drawText() {
   if (frameNumber >= 1500 && frameNumber < 1800) {
     context.fillStyle = `rgba(255, 255, 255, ${opacity})`;
     context.fillText(
-      "to be alive, and to get to spend this life with you",
+      "to be alive, and to get to spend this moment with you",
       canvas.width / 2,
       canvas.height / 2
     );
@@ -182,7 +182,7 @@ function drawText() {
   if (frameNumber > 1800 && frameNumber < 2100) {
     context.fillStyle = `rgba(255, 255, 255, ${opacity})`;
     context.fillText(
-      "is so incredibly, unfathomably unlikely",
+      "you dont have a slightest idea how as i before",
       canvas.width / 2,
       canvas.height / 2
     );
@@ -191,7 +191,7 @@ function drawText() {
   if (frameNumber >= 2100 && frameNumber < 2400) {
     context.fillStyle = `rgba(255, 255, 255, ${opacity})`;
     context.fillText(
-      "is so incredibly, unfathomably unlikely",
+      "you dont have a slightest idea how as i before",
       canvas.width / 2,
       canvas.height / 2
     );
@@ -207,8 +207,8 @@ function drawText() {
     if (window.innerWidth < 600) {
       drawTextWithLineBreaks(
         [
-          "and yet here I am to get the impossible",
-          "chance to get to know you",
+          "there a lot more to say ",
+          "but as always words shorthen justa head of.",
         ],
         canvas.width / 2,
         canvas.height / 2,
@@ -269,7 +269,7 @@ function drawText() {
       );
     } else {
       context.fillText(
-        "I love you so much , more than all the time and space in the universe can contain",
+        "I love you so much , bija koi n compare krvu , its compared to eternity ^⁠_⁠^",
         canvas.width / 2,
         canvas.height / 2
       );
@@ -294,7 +294,7 @@ function drawText() {
       );
     } else {
       context.fillText(
-        "and I can't wait to spend this the time in the world to share that love with you!",
+        "wish ke all stays like this and we grow!",
         canvas.width / 2,
         canvas.height / 2 + 50
       );
